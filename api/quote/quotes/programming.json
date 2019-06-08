@@ -1,0 +1,112 @@
+[
+  {
+    "author": "Ellen Ullman",
+    "quote": "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.",
+    "category": "programming"
+  },
+  {
+    "author": "Fred Brooks",
+    "quote": "What one programmer can do in one month, two programmers can do in two months.",
+    "category": "programming"
+  },
+  {
+    "author": "Oscar Godson",
+    "quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
+    "category": "programming"
+  },
+  {
+    "author": "Chris Wenham",
+    "quote": "Debugging time increases as a square of the program’s size.",
+    "category": "programming"
+  },
+  {
+    "author": "Grady Booch",
+    "quote": "The amateur software engineer is always in search of magic.",
+    "category": "programming"
+  },
+  {
+    "author": "Ryan Singer",
+    "quote": "So much complexity in software comes from trying to make one thing do two things.",
+    "category": "programming"
+  },
+  {
+    "author": "Reg Braithwaite",
+    "quote": "The strength of JavaScript is that you can do anything. The weakness is that you will.",
+    "category": "programming"
+  },
+  {
+    "author": "Wes Dyer",
+    "quote": "Make it correct, make it clear, make it concise, make it fast. In that order.",
+    "category": "programming"
+  },
+  {
+    "author": "Melinda Varian",
+    "quote": "The best programs are the ones written when the programmer is supposed to be working on something else.",
+    "category": "programming"
+  },
+  {
+    "author": "Niklaus Wirth",
+    "quote": "A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want.",
+    "category": "programming"
+  },
+  {
+    "author": "Robert Sewell",
+    "quote": "If Java had true garbage collection, most programs would delete themselves upon execution.",
+    "category": "programming"
+  },
+  {
+    "author": "Ovidiu Platon",
+    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "category": "programming"
+  },
+  {
+    "author": "Ovidiu Platon",
+    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "category": "programming"
+  },
+  {
+    "author": "Ovidiu Platon",
+    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "category": "programming"
+  },
+  {
+    "author": "Martin Fowler",
+    "quote": "Whenever you are tempted to type something into a print statement or a debugger expression, write it as a test instead.",
+    "category": "programming"
+  },
+  {
+    "author": "Marc Andreessen",
+    "quote": "Learning to code is the single best thing anyone can do to get the most out of the amazing future in front of us.",
+    "category": "programming"
+  },
+  {
+    "author": "Ken Thompson",
+    "quote": "I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.",
+    "category": "programming"
+  },
+  {
+    "author": "Bjarne Stroustrup",
+    "quote": "If you think it’s simple, then you have misunderstood the problem.",
+    "category": "programming"
+  },
+  {
+    "author": "Grace Hopper",
+    "quote": "One accurate measurement is worth a thousand expert opinions.",
+    "category": "programming"
+  },
+  {
+    "author": "Bertrand Meyer",
+    "quote": "Incorrect documentation is often worse than no documentation.",
+    "category": "programming"
+  },
+  {
+    "author": "Steward Brand",
+    "quote": "Once a new technology starts rolling, if you're not part of the steamroller, you're part of the road.",
+    "category": "programming"
+  },
+  {
+    "author": "William Laeder",
+    "quote": "Figure out your data structures, and the code will follow.",
+    "category": "programming"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "gimme-quote",
+  "builds": [
+    {"src": "api/quote/*.go", "use": "@now/go", "config": {"includeFiles": ["quotes/**"]}}
+  ],
+  "routes": [
+    {"src": "/api/quote/(.*)", "dest": "api/quote/$1"}
+  ]
+}
