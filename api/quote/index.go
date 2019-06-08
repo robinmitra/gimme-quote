@@ -24,7 +24,7 @@ type errorResponse struct {
 	Message string `json:"message"`
 }
 
-func getQuotesByCategory(category string, limit int) ([]quote, error) {
+func getQuotesByCategory(category string) ([]quote, error) {
 	var quotes []quote
 	path := "quotes/" + category + ".json"
 	if _, err := os.Stat(path); err != nil {
@@ -37,23 +37,17 @@ func getQuotesByCategory(category string, limit int) ([]quote, error) {
 	if err := json.Unmarshal(quotesJson, &quotes); err != nil {
 		return quotes, errors.New(fmt.Sprintln("Error while un-marshalling JSON:", err))
 	}
-	if limit > 0 {
-		return quotes[0:limit], nil
-	}
 	return quotes, nil
 }
 
-func getQuotesByCategories(categories []string, limit int) ([]quote, error) {
+func getQuotesByCategories(categories []string) ([]quote, error) {
 	var quotes []quote
 	for _, c := range categories {
-		q, err := getQuotesByCategory(c, limit)
+		q, err := getQuotesByCategory(c)
 		if err != nil {
 			return quotes, err
 		}
 		quotes = append(quotes, q...)
-	}
-	if limit > 0 {
-		return quotes[0:limit], nil
 	}
 	return quotes, nil
 }
@@ -85,7 +79,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	var quotes []quote
 	if len(category) > 0 {
 		c := strings.Split(category, ",")
-		q, err := getQuotesByCategories(c, limit)
+		q, err := getQuotesByCategories(c)
 		if err != nil {
 			sendError(err, w)
 			return
@@ -93,7 +87,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 		quotes = q
 	} else {
 		c := []string{"inspirational", "movie", "programming"}
-		q, err := getQuotesByCategories(c, limit)
+		q, err := getQuotesByCategories(c)
 		if err != nil {
 			sendError(err, w)
 			return
@@ -102,6 +96,9 @@ func Handler(w http.ResponseWriter, r *http.Request) {
 	}
 	if random {
 		rand.Shuffle(len(quotes), func(i, j int) { quotes[i], quotes[j] = quotes[j], quotes[i] })
+	}
+	if limit > 0 {
+		quotes = quotes[0:limit]
 	}
 	sendResponse(quotes, w)
 	return
