@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+    <title>Gimme Quote</title>
+    <link rel="stylesheet" href="/www/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Kalam:300,400|Lobster|Luckiest+Guy|Pacifico|Passion+One|Raleway|Satisfy|Special+Elite&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<h1>Gimme Quote</h1>
+<p class="tagline">Get your dose of famous quotes</p>
+<blockquote class="quote-container">
+    <p class="quote js-quote">Loading date...</p>
+    <footer class="author js-author"></footer>
+</blockquote>
+<p class="zeit">
+    Deployed with <span>&hearts;</span> on
+    <a href="https://zeit.co/docs" target="_blank" rel="noreferrer noopener">ZEIT Now</a>!
+</p>
+
+<script>
+  async function main() {
+    let res = await fetch('/api/quote?random=true&limit=1');
+    let quotes = await res.json();
+    let quote = quotes.length ? quotes[0] : { quote: 'Call me Neo', author: 'The Matrix' };
+    document.querySelector('.js-quote').textContent = `${quote.quote}`;
+    document.querySelector('.js-author').textContent = `- ${quote.author}`;
+  }
+
+  main();
+</script>
+</body>
+</html>

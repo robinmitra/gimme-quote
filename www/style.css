@@ -1,0 +1,110 @@
+body {
+  font-family: "Raleway", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: #333;
+  padding: 20px 20px 60px;
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.65;
+  word-break: break-word;
+  font-kerning: auto;
+  font-variant: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  hyphens: auto;
+  text-align: center;
+}
+
+h2, h3, h4 {
+  margin-top: 1.5em;
+}
+
+h1 {
+  margin-top: 70px;
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Pacifico', cursive;
+  font-weight: normal;
+}
+
+a {
+  cursor: pointer;
+  color: #0076FF;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid white;
+}
+
+a:hover {
+  border-bottom: 1px solid #0076FF;
+}
+
+code, pre {
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  font-size: .92em;
+  color: #D400FF;
+}
+
+code:before, code:after {
+  content: '`';
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+}
+
+.tagline {
+  font-size: 1.2rem;
+}
+
+.quote-container {
+  background: lightgoldenrodyellow;
+  padding: 2rem;
+  border-radius: 5px;
+  font-family: 'Kalam', cursive;
+  line-height: 1;
+  margin-top: 5rem;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.quote {
+  font-size: 2rem;
+  line-height: 1.5;
+  margin: 0 0 1rem;
+}
+
+.quote.js-quote::before, .quote.js-quote::after {
+  font-size: 3.5rem;
+  position: relative;
+  top: 20px;
+  color: crimson;
+  line-height: 0;
+}
+
+.quote.js-quote::before {
+  content: '\201C';
+  margin-right: 10px;
+}
+
+.quote.js-quote::after {
+  content: '\201D';
+  margin-left: 10px;
+}
+
+.author {
+  font-size: 1.75rem;
+  text-align: right;
+}
+
+.zeit {
+  font-size: 0.9rem;
+  position: absolute;
+  bottom: 1rem;
+  right: 1.5rem;
+}
+
+.zeit span {
+  color: crimson;
+}

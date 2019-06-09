@@ -2,9 +2,11 @@
   "version": 2,
   "name": "gimme-quote",
   "builds": [
+    {"src": "www/**/*", "use": "@now/static"},
     {"src": "api/quote/*.go", "use": "@now/go", "config": {"includeFiles": ["quotes/**"]}}
   ],
   "routes": [
+    {"src": "/", "dest": "www/index.html"},
     {"src": "/api/quote/(.*)", "dest": "api/quote/$1"}
   ]
 }
