@@ -99,6 +99,11 @@ p {
   text-align: right;
 }
 
+.author::before {
+  content: '\02013';
+  margin-right: 0.5rem
+}
+
 .zeit {
   font-size: 0.9rem;
   position: absolute;

@@ -25,7 +25,7 @@
     let quotes = await res.json();
     let quote = quotes.length ? quotes[0] : { quote: 'Call me Neo', author: 'The Matrix' };
     document.querySelector('.js-quote').textContent = `${quote.quote}`;
-    document.querySelector('.js-author').textContent = `&hyphen; ${quote.author}`;
+    document.querySelector('.js-author').textContent = `${quote.author}`;
   }
 
   main();
