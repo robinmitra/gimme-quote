@@ -3,12 +3,13 @@
 <head>
     <title>Gimme Quote</title>
     <link rel="stylesheet" href="/www/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Kalam:300,400|Lobster|Luckiest+Guy|Pacifico|Passion+One|Raleway|Satisfy|Special+Elite&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Kalam:300,400|Pacifico|Raleway&display=swap"
+          rel="stylesheet">
+    <meta charset="utf-8">
 </head>
 <body>
 <h1>Gimme Quote</h1>
-<p class="tagline">Get your dose of famous quotes</p>
+<p class="tagline">Get your dose of famous quotes 💬</p>
 <blockquote class="quote-container">
     <p class="quote js-quote">Loading date...</p>
     <footer class="author js-author"></footer>
@@ -24,7 +25,7 @@
     let quotes = await res.json();
     let quote = quotes.length ? quotes[0] : { quote: 'Call me Neo', author: 'The Matrix' };
     document.querySelector('.js-quote').textContent = `${quote.quote}`;
-    document.querySelector('.js-author').textContent = `- ${quote.author}`;
+    document.querySelector('.js-author').textContent = `&hyphen; ${quote.author}`;
   }
 
   main();

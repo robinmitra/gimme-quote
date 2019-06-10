@@ -65,8 +65,9 @@ p {
   border-radius: 5px;
   font-family: 'Kalam', cursive;
   line-height: 1;
-  margin-top: 5rem;
+  margin-top: 4rem;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+  display: inline-block;
 }
 
 .quote {
