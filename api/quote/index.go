@@ -14,6 +14,7 @@ import (
 
 // Uppercase fields since json package only accesses exported fields.
 type quote struct {
+	Id       string `json:"id"`
 	Author   string `json:"author"`
 	Quote    string `json:"quote"`
 	Category string `json:"category"`
