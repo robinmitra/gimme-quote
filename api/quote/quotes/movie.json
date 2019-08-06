@@ -1,155 +1,181 @@
 [
   {
+    "id": "cf136aa3-6a84-4162-a71c-78f799ff287b",
     "author": "The Godfather",
     "quote": "I'm gonna make him an offer he can't refuse.",
     "category": "movie",
     "year": "1972"
   },
   {
+    "id": "44bfce92-597f-4199-a4a7-0c46309d22c6",
     "author": "Star Wars",
     "quote": "May the Force be with you.",
     "category": "movie",
     "year": "1977"
   },
   {
+    "id": "24eb33e4-d3ac-475c-8f1c-679167444837",
     "author": "Dr. No",
     "quote": "Bond. James Bond.",
     "category": "movie",
     "year": "1962"
   },
   {
+    "id": "8011035d-0c76-46e9-a9e4-e9e075f81226",
     "author": "The Wizard of Oz",
     "quote": "There's no place like home.",
     "category": "movie",
     "year": "1939"
   },
   {
+    "id": "dfd86ae9-ff09-41fc-bd4e-04df4975a2c1",
     "author": "Jerry Maguire",
     "quote": "Show me the money!",
     "category": "movie",
     "year": "1996"
   },
   {
+    "id": "04429d24-3839-44c1-be30-fa80acd4d3cd",
     "author": "Gone with the Wind",
     "quote": "After all, tomorrow is another day!",
     "category": "movie",
     "year": "1939"
   },
   {
+    "id": "2c1bfd72-ba11-445b-85dc-2717260af201",
     "author": "Terminator",
     "quote": "I'll be back.",
     "category": "movie",
     "year": "1984"
   },
   {
+    "id": "a396df00-331f-4ba0-9ad9-fe3e842deb95",
     "author": "Jaws",
     "quote": "You're gonna need a bigger boat.",
     "category": "movie",
     "year": "1975"
   },
   {
+    "id": "dc1eebb9-3578-4563-ad5e-83bc7f5f10e4",
     "author": "Forrest Gump",
     "quote": "My mama always said life was like a box of chocolates. \nYou never know what you're gonna get.",
     "category": "movie",
     "year": "1994"
   },
   {
+    "id": "bb533beb-ff10-4f00-8fa9-f1a7eb2a2640",
     "author": "Bonnie And Clyde",
     "quote": "We rob banks.",
     "category": "movie",
     "year": "1967"
   },
   {
+    "id": "37e86f4e-b784-456a-ae04-80b7a628cf00",
     "author": "The Sixth Sense",
     "quote": "I see dead people.",
     "category": "movie",
     "year": "1999"
   },
   {
+    "id": "7a3c3bde-6e45-4f43-b687-06ec4fd38dfb",
     "author": "Apollo 13",
     "quote": "Houston, we have a problem.",
     "category": "movie",
     "year": "1995"
   },
   {
+    "id": "92ad8208-62d8-40a7-8308-e0afed89ef1e",
     "author": "Jerry Maguire",
     "quote": "You had me at \"hello.\"",
     "category": "movie",
     "year": "1996"
   },
   {
+    "id": "5a8055cd-4096-4654-8b8c-1a2a97a7d5a8",
     "author": "Wall Street",
     "quote": "Greed, for lack of a better word, is good.",
     "category": "movie",
     "year": "1987"
   },
   {
+    "id": "6b8a3e9c-92f5-4b28-bed1-6f36750262e1",
     "author": "The Godfather Part II",
     "quote": "Keep your friends close, but your enemies closer.",
     "category": "movie",
     "year": "1974"
   },
   {
+    "id": "6bde431b-d995-42fe-b27d-145378d2b3c5",
     "author": "Gone with the Wind",
     "quote": "As God is my witness, I'll never be hungry again.",
     "category": "movie",
     "year": "1939"
   },
   {
+    "id": "0a3a3ba3-1a36-46ab-b570-527088fcb8f4",
     "author": "Scarface",
     "quote": "Say \"hello\" to my little friend!",
     "category": "movie",
     "year": "1983"
   },
   {
+    "id": "b9936e49-92a3-4cbc-90ac-c1f6701f02f8",
     "author": "Dr. Strangelove",
     "quote": "Gentlemen, you can't fight in here! This is the War Room!",
     "category": "movie",
     "year": "1964"
   },
   {
+    "id": "7bdd3410-d77b-4acf-8d81-f2a90066bffd",
     "author": "Terminator 2: Judgement Day",
     "quote": "Hasta la vista, baby.",
     "category": "movie",
     "year": "1991"
   },
   {
+    "id": "6e0110a0-b2c2-48f9-8124-51f5c7c1fa04",
     "author": "The Lord of the Rings: Two Towers",
     "quote": "My precious.",
     "category": "movie",
     "year": "2002"
   },
   {
+    "id": "f3340a64-b6b0-4ebb-8a70-922e3024e2f0",
     "author": "Goldfinger",
     "quote": "A martini. Shaken, not stirred.",
     "category": "movie",
     "year": "1964"
   },
   {
+    "id": "2f6af398-db04-469d-be6e-b3d1a430ef57",
     "author": "Top Gun",
     "quote": "I feel the need - the need for speed!",
     "category": "movie",
     "year": "1986"
   },
   {
+    "id": "899772f8-2267-4eed-bdbf-a2046f88e2b8",
     "author": "Dead Poets Society",
     "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
     "category": "movie",
     "year": "1989"
   },
   {
+    "id": "74020699-1265-447d-85fe-234542570815",
     "author": "Dirty Dancing",
     "quote": "Nobody puts Baby in a corner.",
     "category": "movie",
     "year": "1987"
   },
   {
+    "id": "9053c62f-7a03-4321-aba0-dcf2d1420528",
     "author": "Titanic",
     "quote": "I'm the king of the world!",
     "category": "movie",
     "year": "1997"
   },
   {
+    "id": "6b73cbe5-8b0d-4d30-affb-fa55b6a5e5a1",
     "author": "Rocky Balboa",
     "quote": "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
     "category": "movie",

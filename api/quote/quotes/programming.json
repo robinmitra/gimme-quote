@@ -1,110 +1,132 @@
 [
   {
+    "id": "735f847d-7897-45d0-ac22-65a0359e6779",
     "author": "Ellen Ullman",
     "quote": "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.",
     "category": "programming"
   },
   {
+    "id": "5d89a600-3d0e-4db8-8ef8-46afe82510d3",
     "author": "Fred Brooks",
     "quote": "What one programmer can do in one month, two programmers can do in two months.",
     "category": "programming"
   },
   {
+    "id": "d3de0ab2-f3a3-47cd-96b5-e4f9e382054b",
     "author": "Oscar Godson",
     "quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
     "category": "programming"
   },
   {
+    "id": "a1769759-bcb0-4a9c-a2a2-bd5c6102986a",
     "author": "Chris Wenham",
-    "quote": "Debugging time increases as a square of the program’s size.",
+    "quote": "Debugging time increases as a square of the program\u2019s size.",
     "category": "programming"
   },
   {
+    "id": "49d05a55-64a9-4893-9773-691cfabe4cb5",
     "author": "Grady Booch",
     "quote": "The amateur software engineer is always in search of magic.",
     "category": "programming"
   },
   {
+    "id": "766c5c29-1920-430a-be82-a991c249869c",
     "author": "Ryan Singer",
     "quote": "So much complexity in software comes from trying to make one thing do two things.",
     "category": "programming"
   },
   {
+    "id": "da4ddc31-4ed3-4e17-b584-b0db70093033",
     "author": "Reg Braithwaite",
     "quote": "The strength of JavaScript is that you can do anything. The weakness is that you will.",
     "category": "programming"
   },
   {
+    "id": "9e068948-3256-4db7-81bf-9e1a8c79fba6",
     "author": "Wes Dyer",
     "quote": "Make it correct, make it clear, make it concise, make it fast. In that order.",
     "category": "programming"
   },
   {
+    "id": "e327013a-6103-42db-a167-fd5b2ee2b111",
     "author": "Melinda Varian",
     "quote": "The best programs are the ones written when the programmer is supposed to be working on something else.",
     "category": "programming"
   },
   {
+    "id": "6f3432ae-81a8-44b1-ac7e-2d7ba41bdbf5",
     "author": "Niklaus Wirth",
     "quote": "A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want.",
     "category": "programming"
   },
   {
+    "id": "555c2019-440c-4947-9b17-cb4016acb479",
     "author": "Robert Sewell",
     "quote": "If Java had true garbage collection, most programs would delete themselves upon execution.",
     "category": "programming"
   },
   {
+    "id": "5e76052a-3ab2-452a-827f-2fc631a13dce",
     "author": "Ovidiu Platon",
-    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "quote": "I don\u2019t care if it works on your machine! We are not shipping your machine!",
     "category": "programming"
   },
   {
+    "id": "8427f351-b640-4031-bb3a-0a70a970eeec",
     "author": "Ovidiu Platon",
-    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "quote": "I don\u2019t care if it works on your machine! We are not shipping your machine!",
     "category": "programming"
   },
   {
+    "id": "099828d9-eb2f-4660-be6d-ae89f432e586",
     "author": "Ovidiu Platon",
-    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "quote": "I don\u2019t care if it works on your machine! We are not shipping your machine!",
     "category": "programming"
   },
   {
+    "id": "bea908bc-4e89-49ae-8d23-b4243ccaa1d6",
     "author": "Martin Fowler",
     "quote": "Whenever you are tempted to type something into a print statement or a debugger expression, write it as a test instead.",
     "category": "programming"
   },
   {
+    "id": "e83ef60d-1979-48cd-baf0-0fc12f4bf48a",
     "author": "Marc Andreessen",
     "quote": "Learning to code is the single best thing anyone can do to get the most out of the amazing future in front of us.",
     "category": "programming"
   },
   {
+    "id": "2e3497db-b145-416b-8a0c-e4e6363c00df",
     "author": "Ken Thompson",
     "quote": "I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.",
     "category": "programming"
   },
   {
+    "id": "1a1dc956-32ad-4b9c-a6a7-9240f040bd65",
     "author": "Bjarne Stroustrup",
-    "quote": "If you think it’s simple, then you have misunderstood the problem.",
+    "quote": "If you think it\u2019s simple, then you have misunderstood the problem.",
     "category": "programming"
   },
   {
+    "id": "9334dede-6789-4cfc-92e4-f387b320998c",
     "author": "Grace Hopper",
     "quote": "One accurate measurement is worth a thousand expert opinions.",
     "category": "programming"
   },
   {
+    "id": "285b0615-2eab-4530-9802-8c37ca13357b",
     "author": "Bertrand Meyer",
     "quote": "Incorrect documentation is often worse than no documentation.",
     "category": "programming"
   },
   {
+    "id": "456ac71b-4f16-402d-89fe-1ba6c78823b2",
     "author": "Steward Brand",
     "quote": "Once a new technology starts rolling, if you're not part of the steamroller, you're part of the road.",
     "category": "programming"
   },
   {
+    "id": "e2601ff7-6c9b-4a9b-8d16-c4e9df024545",
     "author": "William Laeder",
     "quote": "Figure out your data structures, and the code will follow.",
     "category": "programming"

@@ -1,185 +1,222 @@
 [
   {
+    "id": "f05b8813-2a6c-46c5-ba43-7172942a2197",
     "author": "Audrey Hepburn",
     "quote": "Nothing is impossible, the word itself says 'I'm possible'!",
     "category": "inspirational"
   },
   {
+    "id": "880489eb-8532-462f-acd1-c5fba3a3a123",
     "author": "Howard Aiken",
-    "quote": "Don’t worry about people stealing an idea. If it’s original, you will have to ram it down their throats.",
+    "quote": "Don\u2019t worry about people stealing an idea. If it\u2019s original, you will have to ram it down their throats.",
     "category": "inspirational"
   },
   {
+    "id": "b3550f88-cfc4-4cfd-a09d-543e2a7f0692",
     "author": "Oscar Wilde",
     "quote": "We are all in the gutter, but some of us are looking at the stars.",
     "category": "inspirational"
   },
   {
+    "id": "571a8970-ffbd-46fd-882f-8969ae8cd91d",
     "author": "Frank Chimero",
     "quote": "To make pearls, you've got to eat dirt.",
     "category": "inspirational"
   },
   {
+    "id": "47cf3ee7-d09c-478b-ace3-3ac07e400b0a",
     "author": "Buddha",
     "quote": "What we think, we become",
     "category": "inspirational"
   },
   {
+    "id": "c2a000d1-01ef-4f9f-b33f-26e8503e81b5",
     "author": "Edith Wharton",
     "quote": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
     "category": "inspirational"
   },
   {
+    "id": "2b361818-b1b6-4d70-abe2-624f5382e186",
     "author": "Dr. Seuss",
     "quote": "Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.",
     "category": "inspirational"
   },
   {
+    "id": "eceea569-548c-43ac-8883-aa3dd4bd4b32",
     "author": "Theodore Roosevelt",
     "quote": "Keep your eyes on the stars and your feet on the ground.",
     "category": "inspirational"
   },
   {
+    "id": "5a85fa73-fd49-44a5-b385-77db773dab06",
     "author": "Anonymous",
     "quote": "The only person you should try to be better than is the person you were yesterday.",
     "category": "inspirational"
   },
   {
+    "id": "905aa04f-9a79-4b98-a6f2-d76c92a8e2e2",
     "author": "Harvey Fierstein",
     "quote": "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life; define yourself.",
     "category": "inspirational"
   },
   {
+    "id": "cb47b98d-8f9b-4101-a7a8-3b359905a295",
     "author": "C.S. Lewis",
     "quote": "Faith is the art of holding on to things your reason has once accepted, in spite of your changing moods.",
     "category": "inspirational"
   },
   {
+    "id": "7a63ee93-051a-4055-9703-d574fffd666e",
     "author": "Cormac McCarthy",
     "quote": "You never know what worse luck your bad luck has saved you from.",
     "category": "inspirational"
   },
   {
+    "id": "aff8e668-9478-4add-8798-ad15a8191c57",
     "author": "Mary Engelbreit",
     "quote": "Life's too mysterious to take too serious.",
     "category": "inspirational"
   },
   {
+    "id": "71c5e53b-cfcd-4c93-8d56-b07f430d4941",
     "author": "Eleanor Roosevelt",
     "quote": "No one can make you feel inferior without your consent.",
     "category": "inspirational"
   },
   {
+    "id": "c0bcdc65-2711-40dc-8520-bab30aa6b04d",
     "author": "Albert Einstein",
     "quote": "The woman who follows the crowd will usually go no further than the crowd. \nThe woman who walks alone is likely to find herself in places no one has been before.",
     "category": "inspirational"
   },
   {
+    "id": "4f809aec-27a6-45cd-be1f-81b6949d0bf9",
     "author": "Terry Pratchett",
     "quote": "You can't go around building a better world for people. Only people can build a better world for people. \nOtherwise it's just a cage.",
     "category": "inspirational"
   },
   {
+    "id": "22cc1ec8-ff0d-4b49-8e20-fc01e0e4226d",
     "author": "Terry Pratchett",
     "quote": "There isn't a way things should be. There's just what happens, and what we do.",
     "category": "inspirational"
   },
   {
+    "id": "6fcb601d-735d-4431-be12-5d13597829c6",
     "author": "Rocky Balboa",
     "quote": "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward.",
     "category": "inspirational"
   },
   {
+    "id": "d67565c6-86ba-4d2a-8cd0-9f4cd256fe9f",
     "author": "African proverb",
     "quote": "If you want to go fast, go alone. If you want to go far, go together.",
     "category": "inspirational"
   },
   {
+    "id": "369073a5-52d5-4463-adbd-d0365def3f56",
     "author": "T. Roosevelt",
     "quote": "Believe you can and you're halfway there.",
     "category": "inspirational"
   },
   {
+    "id": "8265ef1c-b04d-4a8e-8161-5f90bd1a1de5",
     "author": "Anonymous",
     "quote": "Happiness is an inside job.",
     "category": "inspirational"
   },
   {
+    "id": "6b4c3a0b-ca16-4c19-aa46-b03103cdf9a2",
     "author": "Anonymous",
-    "quote": "There is no elevator to success — you have to take the stairs.",
+    "quote": "There is no elevator to success \u2014 you have to take the stairs.",
     "category": "inspirational"
   },
   {
+    "id": "0aecbc0f-d997-4edb-8ef5-e4a6972667a9",
     "author": "Jose Luis Borges",
     "quote": "Plant your garden and decorate your own soul, instead of waiting for someone to bring you flowers.",
     "category": "inspirational"
   },
   {
+    "id": "e13ddde3-dc3a-4b80-9996-4f4c4a5c5111",
     "author": "Maya Angelou",
     "quote": "Do the best you can until you know better. Then, when you know better, do better.",
     "category": "inspirational"
   },
   {
+    "id": "3b94fecb-b04c-4088-b0e2-8ed20bbc4dfd",
     "author": "Eleanor Roosevelt",
     "quote": "Do what you feel in your heart to be right, for you'll be criticized anyway.",
     "category": "inspirational"
   },
   {
+    "id": "4208fdd6-b9cb-4ef7-af46-dd67d8e9f208",
     "author": "Anonymous",
     "quote": "Do not set yourself on fire in order to keep others warm.",
     "category": "inspirational"
   },
   {
+    "id": "1171504d-501c-4842-a0bb-7abc295c6136",
     "author": "Anonymous",
     "quote": "It's supposed to be hard. If it were easy, everyone would do it.",
     "category": "Jimmy Dugan"
   },
   {
+    "id": "daf00830-b3f8-4d99-91c2-f7dca8a578cc",
     "author": "Anonymous",
     "quote": "Ask yourself if what you're doing today will get you closer to where you want to be tomorrow.",
     "category": "inspirational"
   },
   {
+    "id": "4b87710d-575a-418f-9bbc-938165b4c6c6",
     "author": "Dita Von Teese",
     "quote": "You can be the ripest, juciest peach in the world and there's still going to be someone who hates peaches.",
     "category": "inspirational"
   },
   {
+    "id": "ae6a1bbb-ceaf-4d4e-b54b-8c344e7e8478",
     "author": "Ralph Waldo Emerson",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "category": "inspirational"
   },
   {
+    "id": "fce409f0-7916-4435-9efa-ec62b012ab6f",
     "author": "William Shakespeare",
     "quote": "Love all, trust a few, do wrong to none.",
     "category": "inspirational"
   },
   {
+    "id": "cf4e8487-228d-4185-8a0f-1810101e9fe5",
     "author": "Aristotle",
     "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
     "category": "inspirational"
   },
   {
+    "id": "f569cdaf-3a72-409b-acbe-5b967ee25aef",
     "author": "Conan O'Brian",
     "quote": "If you work really hard and are kind, amazing things will happen.",
     "category": "inspirational"
   },
   {
+    "id": "ef607055-7f10-49f1-b0f1-8eb81d668ca4",
     "author": "Ralph Waldo Emerson",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "category": "inspirational"
   },
   {
+    "id": "2818603d-09e8-48d6-a72a-c4bf34e76ae9",
     "author": "Ralph Waldo Emerson",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "category": "inspirational"
   },
   {
+    "id": "2deef4c7-c5c7-4fde-827c-aface778c3c2",
     "author": "Ralph Waldo Emerson",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "category": "inspirational"
   },
   {
+    "id": "3d67d009-0cc4-4122-b611-952a68353aac",
     "author": "Ralph Waldo Emerson",
     "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
     "category": "inspirational"
